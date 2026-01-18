@@ -4,6 +4,11 @@ Interactive Power BI dashboard analyzing IPL centuries (2008–2025) with player
 # Project Overview
 This Power BI dashboard analyzes IPL centuries across seasons from 2008 to 2025, providing a clear and interactive view of batting performance trends in the IPL.
 
+## Dataset
+
+The dataset used for this project was sourced from Kaggle
+https://www.kaggle.com/datasets/rakeshkapilavai/ipl-centuries-dataset-2008-2025
+
 ## Features
 - Highest individual score analysis
 - Most centuries by player

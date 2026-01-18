@@ -32,8 +32,9 @@ You can view the interactive dashboard online using the Power BI Service link be
 https://app.powerbi.com/links/DIcyQOYwYE?ctid=084a029e-1435-40bc-8201-87ec1b251fb3&pbi_source=linkShare
 
 ## Dashboard Preview
-<img width="1920" height="1080" alt="Overview" src="https://github.com/user-attachments/assets/4ed131e8-fd98-40cc-9cde-3e4815553e78" />
-<img width="1920" height="1080" alt="Team_Analysis" src="https://github.com/user-attachments/assets/0025f93b-af06-4515-aec0-a522eddbe112" />
+<img width="1920" height="1023" alt="Overview" src="https://github.com/user-attachments/assets/5b51c48e-2fab-4af9-af53-795cd5c9a6a7" />
+<img width="1920" height="1028" alt="Team_Analysis" src="https://github.com/user-attachments/assets/b10c5adc-ce48-459e-a4c2-eecf97f6c66f" />
+
 
 
 ## Author

@@ -26,7 +26,11 @@ The cleaned dataset is provided in this repository for transparency and reproduc
 - Data Modeling
 - Interactive Visual Design
 - Excel for cleaning
-  
+
+## Live Power BI Report
+You can view the interactive dashboard online using the Power BI Service link below:
+https://app.powerbi.com/links/DIcyQOYwYE?ctid=084a029e-1435-40bc-8201-87ec1b251fb3&pbi_source=linkShare
+
 ## Dashboard Preview
 <img width="1920" height="1080" alt="Overview" src="https://github.com/user-attachments/assets/4ed131e8-fd98-40cc-9cde-3e4815553e78" />
 <img width="1920" height="1080" alt="Team_Analysis" src="https://github.com/user-attachments/assets/0025f93b-af06-4515-aec0-a522eddbe112" />

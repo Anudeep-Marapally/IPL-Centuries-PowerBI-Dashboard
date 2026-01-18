@@ -7,7 +7,7 @@ This Power BI dashboard analyzes IPL centuries across seasons from 2008 to 2025,
 ## Dataset
 The dataset used for this project was sourced from Kaggle.
 https://www.kaggle.com/datasets/rakeshkapilavai/ipl-centuries-dataset-2008-2025.
-The original dataset was sourced from Kaggle and cleaned using Excel before being used in this dashboard.
+Cleaned using Excel before being used in this dashboard.
 The cleaned dataset is provided in this repository for transparency and reproducibility.
 
 ## Features
